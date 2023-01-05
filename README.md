@@ -24,6 +24,9 @@ Estoy interesado en las nuevas tecnologías, el diseño web y las redes en gener
 
 
 <h3 align="left">Contactame:</h3>
+
+ 📫 **kelvinreyescnh@gmail.com**
+
 <p align="left">
 <a href="https://linkedin.com/in/kelvin-reyes-r-b966201b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvin-reyes-r-b966201b3" height="30" width="40" /></a>
 </p>
