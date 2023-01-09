@@ -6,7 +6,7 @@
 Soy Ingeniero en Sistemas y Full Stack Developer con experiencia en resolución de problemas y administración de redes.
 Estoy interesado en las nuevas tecnologías, el diseño web y las redes en general.
 
-- Actualmente estoy estudiando Vite y CCNA.
+- Actualmente estoy estudiando TypeScript y CCNA.
 
 - Me encuentro abierto a colaborar, sería excelente poder aplicar mis conocimientos en proyectos que se puedan beneficiar de mi ayuda y seguir ganando experiencia.
 
