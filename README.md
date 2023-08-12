@@ -2,7 +2,7 @@
 
 <p align="left">
 
-Listo para unirme y contribuir en proyectos donde pueda poner en práctica lo que sé, mientras sigo aprendiendo.
+Estoy abierto a participar en proyectos donde pueda poner en uso mis habilidades y aprender más en el proceso.
 
 🦾 Tech Skills
 
