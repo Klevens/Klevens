@@ -2,7 +2,7 @@
 
 <p align="left">
 
-Interesado en colaborar en proyectos para aplicar mis conocimientos y ganar experiencia. 
+Listo para unirme y contribuir en proyectos donde pueda poner en práctica lo que sé, mientras sigo aprendiendo.
 
 🦾 Tech Skills
 
