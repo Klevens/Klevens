@@ -1,14 +1,8 @@
-<h1 align="center">Hola 👋, Soy Kelvin Reyes</h1>
-<h3 align="center">Un Full Stack Developer de Republica Dominicana</h3>
-
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left">
-Soy Ingeniero en Sistemas y Full Stack Developer con experiencia en resolución de problemas y administración de redes.
-Estoy interesado en las nuevas tecnologías, el diseño web y las redes en general.
 
-- Actualmente estoy estudiando TypeScript y CCNA.
-
-- Me encuentro abierto a colaborar, sería excelente poder aplicar mis conocimientos en proyectos que se puedan beneficiar de mi ayuda y seguir ganando experiencia.
+ Me encuentro abierto a colaborar, sería excelente poder aplicar mis conocimientos en proyectos que se puedan beneficiar de mi ayuda y seguir ganando experiencia.
 
 🦾 Tech Skills
 
