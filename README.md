@@ -2,7 +2,7 @@
 
 <p align="left">
 
- Me encuentro abierto a colaborar, sería excelente poder aplicar mis conocimientos en proyectos que se puedan beneficiar de mi ayuda y seguir ganando experiencia.
+Interesado en colaborar en proyectos para aplicar mis conocimientos y ganar experiencia. 
 
 🦾 Tech Skills
 
